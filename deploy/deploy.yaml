@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: madhanshiva/todo-app:v1
+        image: mvmadhan/todo-app:v1
         ports:
         - containerPort: 8000
